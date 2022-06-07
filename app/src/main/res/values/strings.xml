@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IF3 UTS AKB 10119124</string>
+    <string name="todo">TODO</string>
+    <string name="catat">CATAT</string>
+    <string name="catat_seluruh_kegiatan_pentingmu">catat seluruh kegiatan pentingmu</string>
+    <string name="catat_seluruh_kegiatan_pentingmu_dengan_cepat_dan_mudah">catat seluruh kegiatan pentingmu dengan cepat dan mudah</string>
+    <string name="write">WRITE</string>
+    <string name="write_down_your_important_task_with_quick_and_ease">write down your important task with quick and ease</string>
+    <string name="never_forget_your_task_or_any_important_things_anymore">never forget your task or any important things anymore</string>
+    <string name="writes">Write</string>
+    <string name="organize">Organize</string>
+    <string name="organize_your_task_with_a_lot_more_easier_now">organize your task with a lot more easier now</string>
+    <string name="save">Save</string>
+    <string name="write_down_your_tasks_gonna_make_save_your_life">write down your tasks gonna make save your life</string>
+    <string name="enjoy">Enjoy</string>
+    <string name="organized_task_gonna_make_your_day_more_happied_enjoy_your_life">organized task gonna make your day more happied. Enjoy your life !</string>
+    <string name="next">Next</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_profile">My Profile</string>
+    <string name="todoo">TODOO</string>
+    <string name="add">Add</string>
+    <string name="string_add" />
+    <string name="delete">Delete</string>
+    <string name="title_activity_details">Details</string>
+</resources>
