@@ -1,4 +1,4 @@
-package com.example.if3utsakb10119124;
+package com.example.if3tugas2akb10119124;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import androidx.fragment.app.Fragment;
+
+import if3tugas2akb10119124.R;
 
 /**
  * A simple {@link Fragment} subclass.

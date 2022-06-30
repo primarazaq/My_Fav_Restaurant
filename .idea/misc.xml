@@ -3,6 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/activity_edit.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/activity_slider.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/activity_splash_screen.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/content_details.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/content_main.xml" value="0.115625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/custom_list_view.xml" value="0.115625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/fragment_home.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/fragment_info.xml" value="0.176" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/slider1.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/slider2.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/slider3.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/IF3Tugas2AKB10119124/app/src/main/res/layout/slider4.xml" value="0.2546875" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/IF3UTSAKB10119124/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/IF3UTSAKB10119124/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/IF3UTSAKB10119124/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1" />

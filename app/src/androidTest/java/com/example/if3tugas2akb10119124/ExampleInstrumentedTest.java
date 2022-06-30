@@ -1,4 +1,4 @@
-package com.example.if3utsakb10119124;
+package com.example.if3tugas2akb10119124;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.if3utsakb10119124", appContext.getPackageName());
+        assertEquals("com.example.if3tugas2akb10119124", appContext.getPackageName());
     }
 }

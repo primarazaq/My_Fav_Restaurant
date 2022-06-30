@@ -1,10 +1,13 @@
-package com.example.if3utsakb10119124;
+package com.example.if3tugas2akb10119124;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import if3tugas2akb10119124.R;
+
 //10119124, Primarazaq Noorshalih Putra Hilmana, IF-3
 public class SplashScreen extends AppCompatActivity {
     Handler h = new Handler();

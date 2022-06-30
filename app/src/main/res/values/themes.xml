@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.IF3UTSAKB10119124" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.IF3Tugas2AKB10119124" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/birutua</item>
         <item name="colorPrimaryVariant">@color/birumuda</item>
@@ -14,12 +14,12 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.IF3UTSAKB10119124.NoActionBar">
+    <style name="Theme.IF3Tugas2AKB10119124.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.IF3UTSAKB10119124.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.IF3Tugas2AKB10119124.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="Theme.IF3UTSAKB10119124.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.IF3Tugas2AKB10119124.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

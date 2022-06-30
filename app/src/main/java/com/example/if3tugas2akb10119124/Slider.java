@@ -1,4 +1,4 @@
-package com.example.if3utsakb10119124;
+package com.example.if3tugas2akb10119124;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,6 +8,9 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
+
+import if3tugas2akb10119124.R;
+
 //10119124, Primarazaq Noorshalih Putra Hilmana, IF-3
 public class Slider extends AppCompatActivity {
     ViewPager viewPager;

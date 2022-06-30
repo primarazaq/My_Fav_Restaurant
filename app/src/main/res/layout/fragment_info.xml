@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".InfoFragment"
+    tools:context="com.example.if3tugas2akb10119124.InfoFragment"
     android:background="@drawable/wht">
 
     <TextView
@@ -24,7 +24,7 @@
         android:layout_height="150dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="150dp"
-        android:src="@drawable/mydiary" />
+        android:src="@drawable/logo" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -32,7 +32,7 @@
         android:layout_gravity="center|center_horizontal"
         android:layout_marginTop="20dp"
         android:fontFamily="sans-serif-medium"
-        android:text="My Diary"
+        android:text="My Fav Restaurant"
         android:textColor="@color/birutua"
         android:textSize="25sp"
         android:textStyle="bold" />
@@ -56,7 +56,7 @@
         android:layout_marginTop="130dp"
         android:fontFamily="sans-serif-light"
         android:gravity="center_horizontal"
-        android:text="'My Diary' is an application that can be a brief record of facts, topics or thoughts, to help us to remember something with easier in modern ways"
+        android:text="'My Fav Restaurant' is an application to find a nearest and the most favorite restaurant near you"
         android:textColor="@color/birutua"
         android:textSize="17sp"
         android:textStyle="normal" />
